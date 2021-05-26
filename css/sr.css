@@ -1,0 +1,55 @@
+body
+{
+    background-color:silver;
+}
+h1
+{
+    color: crimson;
+    font-style: normal;
+}
+
+
+h2
+{
+    color: yellow;
+}
+.order
+{
+    background-color: rgb(217, 255, 0);
+}
+.type
+{
+    background-color: rgb(240, 255, 105);
+}
+.text
+{
+    background-color: rgb(252, 235, 0);
+}
+.col-md-10
+{
+    color: darkorange;
+    background-color: darkred;
+    text-align: center;
+    font-style: italic;
+}
+span
+{
+    color: firebrick;
+    font-style: oblique;
+}
+nav
+{
+    background-color: thistle;
+}
+.container
+{
+    color:darkslategray;
+    background-position: center;
+    
+}
+button
+{
+    color: hotpink;
+    background-color: lime;
+    font-style: oblique;
+}
